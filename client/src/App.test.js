@@ -1,4 +1,5 @@
 import React from 'react';
+import Month from './components/Month'
 import { render } from '@testing-library/react';
 import App from './App';
 
