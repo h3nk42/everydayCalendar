@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/everydayCalendar/static/css/main.04af04bf.chunk.css",
+    "main.js": "/everydayCalendar/static/js/main.e2dd6622.chunk.js",
+    "main.js.map": "/everydayCalendar/static/js/main.e2dd6622.chunk.js.map",
+    "runtime-main.js": "/everydayCalendar/static/js/runtime-main.e821f5ee.js",
+    "runtime-main.js.map": "/everydayCalendar/static/js/runtime-main.e821f5ee.js.map",
+    "static/js/2.7298b194.chunk.js": "/everydayCalendar/static/js/2.7298b194.chunk.js",
+    "static/js/2.7298b194.chunk.js.map": "/everydayCalendar/static/js/2.7298b194.chunk.js.map",
+    "index.html": "/everydayCalendar/index.html",
+    "precache-manifest.8cfe581124dc3c554a436438be08f400.js": "/everydayCalendar/precache-manifest.8cfe581124dc3c554a436438be08f400.js",
+    "service-worker.js": "/everydayCalendar/service-worker.js",
+    "static/css/main.04af04bf.chunk.css.map": "/everydayCalendar/static/css/main.04af04bf.chunk.css.map",
+    "static/js/2.7298b194.chunk.js.LICENSE.txt": "/everydayCalendar/static/js/2.7298b194.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e821f5ee.js",
+    "static/js/2.7298b194.chunk.js",
+    "static/css/main.04af04bf.chunk.css",
+    "static/js/main.e2dd6622.chunk.js"
+  ]
+}
